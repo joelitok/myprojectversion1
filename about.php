@@ -92,7 +92,7 @@
           <ul class="nav-menu">
             <li class="menu-active"><a href="index.php">ACCUEIL</a></li>
             <li><a href="services.php">SERVICES</a></li>
-            <li><a href="about.php">L'agence</a></li>
+            <li><a href="about.php">L'AGENCE</a></li>
             <!-- <li><a href="services">Services</a></li> -->
             <li><a href="portfolio.php">REALISATIONS</a></li>
             <li><a href="blog.php">BLOG</a></li>

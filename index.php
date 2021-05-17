@@ -120,8 +120,8 @@ Intro Section
         <div class="carousel-background"><img src="img/intro-carousel/1.jpg" alt=""></div>
         <div class="carousel-container">
           <div class="carousel-content">
-            <h2>We are professional</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            <h2>L’AGENCE  </h2>
+            <p>Entreprendre c’est exploiter une idée, la valoriser, lui donner un sens suivant une ou des orientations stratégiques. Tout ceci exige d’être capable d’avoir une vision globale du projet et s’inscrire dans une stratégie, qui en maitrise et en assure la mise en œuvre tant au niveau des moyens humains que budgétaires, en tenant compte des contraintes techniques, juridiques ou calendaires, avec des exigences opérationnelles et rédactionnelles </p>
             <a href="#featured-services" class="btn-get-started scrollto">Get Started</a>
           </div>
         </div>
@@ -130,8 +130,8 @@ Intro Section
         <div class="carousel-background"><img src="img/intro-carousel/2.jpg" alt=""></div>
         <div class="carousel-container">
           <div class="carousel-content">
-            <h2>At vero eos et accusamus</h2>
-            <p>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut.</p>
+            <h2>NOTRE VISION</h2>
+            <p>Etre un acteur privilégié dans le développement des  projets dans la sous-région, une ressource de créativité et d’accompagnement performant. </p>
             <a href="#featured-services" class="btn-get-started scrollto">Get Started</a>
           </div>
         </div>
@@ -140,33 +140,14 @@ Intro Section
         <div class="carousel-background"><img src="img/intro-carousel/3.jpg" alt=""></div>
         <div class="carousel-container">
           <div class="carousel-content">
-            <h2>Temporibus autem quibusdam</h2>
-            <p>Beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt omnis iste natus error sit voluptatem accusantium.</p>
+            <h2>NOTRE REVE</h2>
+            <p>Nous croyons au marché des opportunités de développement stratégique des entreprises en Afrique comme acteur clé de l’économie mondiale.  </p>
             <a href="#featured-services" class="btn-get-started scrollto">Get Started</a>
           </div>
         </div>
       </div>
-      <div class="carousel-item">
-        <div class="carousel-background"><img src="img/intro-carousel/4.jpg" alt=""></div>
-        <div class="carousel-container">
-          <div class="carousel-content">
-            <h2>Nam libero tempore</h2>
-            <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum.</p>
-            <a href="#featured-services" class="btn-get-started scrollto">Get Started</a>
-          </div>
-        </div>
-      </div>
-      <div class="carousel-item">
-        <div class="carousel-background"><img src="img/intro-carousel/5.jpg" alt=""></div>
-        <div class="carousel-container">
-          <div class="carousel-content">
-            <h2>Magnam aliquam quaerat</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-            <a href="#featured-services" class="btn-get-started scrollto">Get Started</a>
-          </div>
-        </div>
-      </div>
-    </div>
+     
+      
     <a class="carousel-control-prev" href="#introCarousel" role="button" data-slide="prev">
       <span class="carousel-control-prev-icon ion-chevron-left" aria-hidden="true"></span>
       <span class="sr-only">Previous</span>
@@ -184,8 +165,9 @@ Intro Section
       <div class="row">
         
         <h3>POURQUOI NOUS CONSULTER</h3><br>
-        <p>Toutes les expertises pour des projets intelligents<br>
-        MyProject est une Cellule Stratégique fondée sur l’idée de proposer et d’apporter<br> des ressources nécessaires au développement des projets.</p>
+        <p> Chaque nouveau projet est un nouveau défi où nous nous investissons avec force et passion.<br>
+        Chaque nouveau client  est une nouvelle rencontre qui enrichit notre approche transversale de la gestion des projets.
+         <br>  Et nous permet de proposer des solutions innovantes, techniques et audacieuses à chacun.</p>
       </div>
     </div>
   </section>
