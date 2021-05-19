@@ -87,7 +87,7 @@
         <nav id="nav-menu-container">
           <div class="col-lg-12" id="h-contacts">
             <span class="text-white"><i class="fa fa-envelope-o"></i> <small>contact@myprojectcmr.com</small></span>
-            <span class="text-white"> <small>|</small> <i class="fa fa-phone"></i> <small>+237 667967369</small></span>
+            <span class="text-white"> <small>|</small> <i class="fa fa-phone"></i> <small>+237 670808079</small></span>
           </div>
           <ul class="nav-menu">
             <li class="menu-active"><a href="index.php">ACCUEIL</a></li>
@@ -304,7 +304,7 @@
               A108 Adam Street <br>
               New York, NY 535022<br>
               United States <br>
-              <strong>Phone:</strong>  +237 667967369<br>
+              <strong>Phone:</strong>  +237 670808079<br>
               <strong>Email:</strong> contact@myprojectcmr.com <br>
             </p>
 
